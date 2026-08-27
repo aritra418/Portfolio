@@ -1,2 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+@theme {
+  --color-background: #1E1E2E;
+  --color-text1: #cba6f7;
+
+
+  --font-nerd: "FiraCode Nerd Font", "Fira Code", monospace;
+}
+
+
